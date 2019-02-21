@@ -1,0 +1,4 @@
+/* link引用CSS时，在页面载入时同时加载；@import需要页面网页完全载入以后加载。 */
+@import "./reset.css";
+@import "./icon.css";
+@import "./base.css";
