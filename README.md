@@ -31,7 +31,7 @@
 
 ![image](https://github.com/hejh1995/project-img/blob/master/5.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/6.png)
-  -- 设置了各种错误提醒功能
+  <pre>-- 设置了各种错误提醒功能</pre>
 * 登录页
 
 ![image](https://github.com/hejh1995/project-img/blob/master/4.png)
@@ -39,19 +39,19 @@
 * 歌手页
 
 ![image](https://github.com/hejh1995/project-img/blob/master/7.png)
-* - 右侧的‘导航’和左侧的内容双向联动。
+<pre>- 右侧的‘导航’和左侧的内容双向联动。</pre>
 * 各个歌手页
 
 ![image](https://github.com/hejh1995/project-img/blob/master/8.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/14.png)
-* - 下拉，上部背景图片放大。
-  - 上拉，到一定位置，上部部分变为一小块。
+<pre> - 下拉，上部背景图片放大。
+  - 上拉，到一定位置，上部部分变为一小块。</pre>
 * 歌曲播放页
 
 ![image](https://github.com/hejh1995/project-img/blob/master/9.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/10.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/11.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/12.png)
-*  - 进度条、歌曲、歌词同步
+<pre> - 进度条、歌曲、歌词同步
   - 可切换播放模式，添加歌曲为喜欢
-  - 有音乐播放/暂停的时候，退回至其他页面，底部会有小的音乐播放器。
+  - 有音乐播放/暂停的时候，退回至其他页面，底部会有小的音乐播放器。</pre>
