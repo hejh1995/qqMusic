@@ -18,8 +18,10 @@
 ![image](https://github.com/hejh1995/project-img/blob/master/1.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/2.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/13.png)
+<pre>
   - 第二张图片，左侧浮层，具体功能没有实现，只实现‘退出登录‘
   - 上拉，中间导航块会下移（模仿qq音乐）
+</pre>
 
 * **个人中心** 
 
@@ -37,19 +39,19 @@
 * 歌手页
 
 ![image](https://github.com/hejh1995/project-img/blob/master/7.png)
-  -- 右侧的‘导航’和左侧的内容双向联动。
+* - 右侧的‘导航’和左侧的内容双向联动。
 * 各个歌手页
 
 ![image](https://github.com/hejh1995/project-img/blob/master/8.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/14.png)
-  -- 下拉，上部背景图片放大。
-  -- 上拉，到一定位置，上部部分变为一小块。
+* - 下拉，上部背景图片放大。
+  - 上拉，到一定位置，上部部分变为一小块。
 * 歌曲播放页
 
 ![image](https://github.com/hejh1995/project-img/blob/master/9.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/10.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/11.png)
 ![image](https://github.com/hejh1995/project-img/blob/master/12.png)
-  -- 进度条、歌曲、歌词同步
-  -- 可切换播放模式，添加歌曲为喜欢
-  -- 有音乐播放/暂停的时候，退回至其他页面，底部会有小的音乐播放器。
+*  - 进度条、歌曲、歌词同步
+  - 可切换播放模式，添加歌曲为喜欢
+  - 有音乐播放/暂停的时候，退回至其他页面，底部会有小的音乐播放器。
